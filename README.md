@@ -6,6 +6,7 @@
 
 [github-git-cheat-sheet](https://training.github.com/downloads/it/github-git-cheat-sheet/)
 
+[How to write a good commit message](https://dev.to/chrissiemhrk/git-commit-message-5e21)
 
 per aggiungere il codice locale su git e poi su una repo github
 
